@@ -19,36 +19,20 @@ let profile = {
 // Step 7: Inside of the empty array above, add a new object with two properties: place and length and values of an empty string
 profile.placesLived = [
     {
-        place: 'Robbinsdale, Minnesota',
-        length: 0.167,
+        place: 'Venezuela, Carebobo',
+        length: 10,
     },
     {
-        place: 'Oakdale, California',
-        length: 2,
+        place: 'Perú, abancay',
+        length: 9,
     },
     {
-        place: 'Antioch, California',
-        length: 7,
-    },
-    {
-        place: 'Burley, Idaho',
+        place: 'Tacna, Perú',
         length: 6,
     },
     {
-        place: 'Meeker, Colarado',
+        place: 'Lima, Perú',
         length: 4,
-    },
-    {
-        place: 'Provo, Utah',
-        length: 5,
-    },
-    {
-        place: 'Rawlins, Wyoming',
-        length: 1,
-    },
-    {
-        place: 'Laramie, Wyoming',
-        length: 1,
     },
 ];
 
